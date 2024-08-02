@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎯 Passionate about **anime**, **self-improvement**, and **music**.
-- 🚀 Currently diving deep into **JavaScript**, **C++**, and **React.js**.
+- 🚀 Currently diving deep into **JavaScript** and **React.js**.
 - 🌟 Looking to collaborate on projects that create a meaningful impact on the community.
 
 ## Technologies & Tools
@@ -15,7 +15,6 @@
 
 ## Current Learning Path
 - 🌱 Enhancing my skills in **JavaScript** with projects and challenges.
-- 🌱 Exploring **C++** for systems programming and performance optimization.
 - 🌱 Building dynamic web applications with **React.js**.
 
 ## Projects & Collaboration
